@@ -15,5 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## More information
-Make sure that you are running the backend outward facing with something like ngrok.
+Make sure that you are running the back-end outward facing with something like ngrok.
 Run both front-end and back-end in the same computer for the demo to work
